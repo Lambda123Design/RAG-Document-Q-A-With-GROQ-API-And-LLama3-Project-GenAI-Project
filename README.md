@@ -5,7 +5,7 @@ This Repository contains my working files of "RAG Document Q&amp;A With GROQ API
 
 (ii) Developed a Streamlit web app where users can upload documents, enter queries, and view answers with relevant context.
 
-(iii) Created vector embeddings of PDFs using Ollama embeddings and stored them in a vector database for efficient retrieval.
+(iii) Created vector embeddings of PDFs using HuggingFace embeddings and stored them in a FAISS vector database for efficient retrieval.
 
 (iv) Designed a prompt template to guide the model to provide accurate responses based on document context.
 
